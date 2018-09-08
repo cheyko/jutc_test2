@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">955256764216-98sjatjqc42an4ms0l6adbtq8ekngtbk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fir-bussimulator.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">955256764216</string>
+    <string name="google_api_key" translatable="false">AIzaSyAIo4hWsED4PfZ0DkV0DDRs1rG6b7eWdmc</string>
+    <string name="google_app_id" translatable="false">1:955256764216:android:871359de8ad08725</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAIo4hWsED4PfZ0DkV0DDRs1rG6b7eWdmc</string>
+    <string name="google_storage_bucket" translatable="false">firebase-bussimulator.appspot.com</string>
+    <string name="project_id" translatable="false">firebase-bussimulator</string>
+</resources>
